@@ -1,5 +1,7 @@
 # Laravel 5.7 + Quasar Framework 0.17 (PWA)
 
+This repository is forked from https://github.com/cretueusebiu/laravel-vue-spa. The original repository provides a Laravel-Vue preset based on Bootstrap 4. Instead of Bootstrap, this repository uses the Quasar Framework resulting in applications with a powerful Material UI.
+
 ## Build Setup
 > rename or copy  .env.example to .env
 
